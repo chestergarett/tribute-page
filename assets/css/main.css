@@ -78,7 +78,7 @@ h3{
 }
 /*--------HEADERS-----*/
 header{
-    background-image: linear-gradient( rgba(0, 0, 0, 0.801), rgba(0,0,0,0.801)), url(images/header-2.png);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.801), rgba(0,0,0,0.801)), url(images/header-2-reduced.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -90,7 +90,7 @@ header{
 
 .div-nav{
     flex-basis: 20%;
-    margin-right: 1rem;
+    margin-right: .5rem;
 }
 
 .hero-text-box{
@@ -111,10 +111,10 @@ header{
 
 
 .main-nav {
-    float: right;
     list-style: none;
     margin-top: 50px;
     display: flex;
+    justify-content: flex-end;
 }
 
 .main-nav li{
