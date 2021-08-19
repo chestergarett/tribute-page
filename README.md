@@ -1,8 +1,6 @@
 # tribute-page
-tribute-page-repo
 
-
-https://chestergarett-tribute-8e74b9.netlify.app/ - public domain of tribute page.
+https://chestergarett-tribute-8e74b9.netlify.app/ - visit site here.
 
 simple tribute page via pure html and css. If you encounter any bugs, or suggestions with regard to the UI, please let me know.
 
