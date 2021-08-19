@@ -10,7 +10,7 @@ ________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/71489331/130073452-adbfc8c8-8444-4ace-b96b-cda997afe74c.png)
 
 
-![image](https://user-images.githubusercontent.com/71489331/130073523-abb9a8b4-9fae-4d43-92f0-65fd8fa0815b.png)
+<img width="1323" alt="Screen Shot 2021-08-19 at 9 06 14 PM" src="https://user-images.githubusercontent.com/71489331/130073714-20bdf034-1214-404d-b304-a408e091e793.png">
 
 
-![image](https://user-images.githubusercontent.com/71489331/130073558-5f62789b-030b-4511-9e0b-f3a6476d3338.png)
+![image](https://user-images.githubusercontent.com/71489331/130073752-98d1dde3-d1fe-4530-9b83-c1aa8785144c.png)
